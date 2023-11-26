@@ -1,0 +1,11 @@
+body{
+    background-color: #FFEAEA;
+}
+.tab{
+    background-color: aquamarine;   
+    border: 2px;
+    border-style:solid;
+    box-shadow: 3px 5px;
+    border-radius: 6px;
+    padding: 10px;
+   }
